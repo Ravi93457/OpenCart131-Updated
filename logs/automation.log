@@ -1,0 +1,755 @@
+23:44:30.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+23:44:31.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+23:51:47.945 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+23:51:48.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+00:10:59.800 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+00:11:00.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+00:13:11.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+00:13:11.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+00:13:11.894 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+00:13:12.319 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 00:19:46 01/02/2026 IST)
+00:13:12.322 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+00:13:12.322 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+00:13:12.374 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+00:13:12.375 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+00:13:25.906 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+00:13:25.929 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+00:13:27.357 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+00:13:28.374 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+00:13:30.179 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+00:13:30.195 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 00:19:46 01/02/2026 IST)
+00:13:30.197 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+00:13:30.197 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+00:13:30.222 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+00:13:30.223 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+00:13:31.536 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:04:50.661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:04:50.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:04:51.066 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:04:51.357 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Removing resolution chrome=144 from cache (expired on 2026-02-01T00:19:46.000+0530)
+01:04:51.374 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 preparing request execution
+01:04:51.380 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+01:04:51.380 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+01:04:51.380 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+01:04:51.381 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+01:04:51.381 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+01:04:51.384 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+01:04:51.391 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+01:04:51.391 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+01:04:51.391 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+01:04:51.392 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 connecting endpoint (null)
+01:04:51.393 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+01:04:51.393 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+01:04:51.427 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.111.133]
+01:04:51.429 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.110.133:443 (30 SECONDS)
+01:04:51.429 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/185.199.110.133:443 with timeout 30 SECONDS
+01:04:51.489 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1.3, TLSv1.2]
+01:04:51.489 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+01:04:51.489 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Starting handshake (null)
+01:04:51.638 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Secure session established
+01:04:51.638 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.3
+01:04:51.638 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+01:04:51.639 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer principal: CN=*.github.io
+01:04:51.639 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer alternative names: [*.github.io, *.github.com, *.githubusercontent.com, github.com, github.io, githubusercontent.com, www.github.com]
+01:04:51.639 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  issuer principal: CN=Sectigo RSA Domain Validation Secure Server CA, O=Sectigo Limited, L=Salford, ST=Greater Manchester, C=GB
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.110.133:443 as http-outgoing-0
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 endpoint connected
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+01:04:51.640 [main] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 start execution ex-0000000001
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> cache-control: max-age=0
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> connection: keep-alive
+01:04:51.670 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+01:04:51.671 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 946[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+01:04:51.694 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Sat, 31 Jan 2026 19:34:51 GMT[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Served-By: cache-bom-vanm7210050-BOM[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache-Hits: 3[\r][\n]"
+01:04:51.695 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Timer: S1769888091.405145,VS0,VE0[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: b19d11cec73650813d3adc5dd257f5255632ee7f[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Expires: Sat, 31 Jan 2026 19:39:51 GMT[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Source-Age: 286[\r][\n]"
+01:04:51.696 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 946
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+01:04:51.699 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Frame-Options: deny
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Sat, 31 Jan 2026 19:34:51 GMT
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Via: 1.1 varnish
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Served-By: cache-bom-vanm7210050-BOM
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache: HIT
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache-Hits: 3
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Timer: S1769888091.405145,VS0,VE0
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: b19d11cec73650813d3adc5dd257f5255632ee7f
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Sat, 31 Jan 2026 19:39:51 GMT
+01:04:51.700 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 286
+01:04:51.702 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+01:04:51.715 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]X[0xffffffd1]n[0xffffffda]0[0x14]}[0xffffffe7]+,[0xffffffba]J [0x11][0xffffffb2][0x1][0xffffffeb][0xffffffaa]Jy[0xffffffa0][0x19]e[0xffffffd5][0xffffffa8]`[0xffffffd0]v[0xffffff9b][0xffffffe4][0x17][0xffffff93]8`)[0xffffff89]Q[0xffffff9c]@[0xffffffb7][0xffffffa9][0xfffffffb][0xfffffff6]9NB[0xffffffe3]$[0xc]H[0xffffffe0][0xffffffad][0xffffff8e][0xffffff8f][0xffffffef]97[0xffffffdc]s}[0xffffffd3][0xb][0xffffffa0]S[0xffffffc7]A[0xffffffae][0xffffffc9][0xffffff80][0xffffff89]|4G[0xc][0xffffffd7].[0xffffffc0][0xffffffe3][0xffffff92]0`[0x11][0x1b][0x3][0xffffff83][0xffffffba]>".[0x3][0xfffffffe]2\[0xffffffc4]P[0xffffff9f][0xffffff82]9[0x6][0xfffffff8][0x5][0x1b][0xffffff81][0xffffff8f]M@\[0xffffffb1][0xffffffcd][0xffffff96][0xffffffd8][0xffffffb6][0xffffffc3][0x5][0xfffffff5]L[0xffffffec][0xffffff85] [0x13][0xfffffffb][0xffffffd8][0xfffffff0][0xffffffc5][0xffffffe6][0x1a]{[0xffffff8c]P[0xffffffbe]g[0x1][0xffffffcc][0xffffffff]^x[0x18][0xffffffbb]`[0xffffffee][0xffffffd1][\r][0xffffffe3][0x1b][0xffffff9c][0xffffffb2][0xffffffa1]/=[0xffffffea][0xffffffe0][0x16][0xffffffb8]#[0x1e][0xffffffb6][0xffffffe8]K[0xb][0xffffff8c]W[0xffffffd8]C-00[0x17][0xfffffffc][0xffffffa9][0xffffffd8]%[0xffffff81][0xffffffd3][0xc][0xffffffe3][0xffffff9b][0xffffffc4][0xffffffb2][0xffffffb0][0xffffff87]][0x1f][0xffffffd0][0x10][0xffffffe3][0x13]w[0x1][0xffffffd8]/[0xffffffe6]c[0xffffff87][0xffffff81][0xffffffc6]w[0xffffffe2][0xffffff9a]<j[0xb][0xffffff8c][0xffffff88][0x1b][0xfffffff0]0[0xf][0xffffffc8][0x0][0xffffffe3]Y[0xffffffb3][0xffffffc6]9"[0xffffff8a]Z[0xffffff9c]F[0xffffffdb][0x10][0xffffffcb][0xfffffff6]&:[0xffffffd0]~[0xffffffff]A3[0x1c][0xffffffb3][0xffffffcd][0xffffffb3][0x2][0xffffffaa][0xe]6[0xe]1[0xffffffc4]+[0x11][0xffffffaf]a[0xffffffb3][0xffffffe4]|[0xffffffc0]E[0xe][0xffffffd6][0xffffffea][0xffffff97][0xffffff93][0xffffffe9]x8[0xffffffed]?[0xffffffdc][0xffffffdd][0xffffff8f][0x6][0xffffffb3][0x1b][0xffffffa8]Ax[0x9][0xffffffe1][0xffffff90][0xffffffd2][0xffffff85][0xffffff8d]![0xffffff8c]( [0xffffffec][0xffffffaf]V61[0xffffffb8]4[0xffffffea]B[0x18][0x13][0xfffffff1][0xffffffc8]u[0xffffffb0][0xffffffc0]>x[0xffffff8e][0xffffffdf][0xffffff85][0xffffffba]Fv[0xffffffb0][O[0xffffffa7][0xffffff84][0xffffff9e][0xffffffc6][0xffffff8f][0xffffffeb][0xffffffab][0xffffffe6]9Eu[0xf][0x14]5[0x1a][0xffffffeb][0xfffffffd]Q[0x7f]2[0xfffffff9][0xffffffdc][0x7f][0xffffffec][0xffffff9f]SOO[0xffffff9b][0xe][0xffffff86][0xffffffe0][0xffffffdb][0xffffffd3]`[0xfffffffa][0x13]|[0xfffffff9][0xffffffaa]?[0xffffffc1][0x19][0xffffffb5][0xfffffffc][\r][0xfffffff2]p[0xffffffc2][0x16][0xffffff93][0xffffffdd][0xffffff8e]n12D[0xffffffbc][0xffffffa4][0x16]w[0xffffffc6][0xfffffffc][0xffffffa8][0xffffffad][0xffffffe8][0xffffff86]c[0xffffffc2]z[0x16][0xffffffa9]*[0xffffffb1]I@c[0xffffff88]}[0xffffffe5][0xffffff9e][0x17][0x1a][0xffffffa8][0xffffffbf][0xfffffffb][0xffffff83][0xffffffdd][0xfffffff5]M:[0xffffffcd][0xffffffd7][0xc]e:[0xffffffbd]Tv[0xffffffcd]v[0xffffff9c][0xffffffda][0xffffffbd]k[0xffffffd1][0xfffffff6][0xffffffc4][0xffffffa3]f`[0xfffffff8][0xffffffcf]{$][0x1d].)W[0xe][0xffffffe7][0xffffffd4][0xfffffff5][0xffffffa9][0xffffff9c][0xffffffae]SH[0xffffffca]j[0xffffffb2]C[0xffffffbf][0xffffff87].V[0x3][0xffffffe6][0xffffffa9]s[0xffffffe2][0xffffffaa][0xb][0xffffffc1][0xffffffa1]D[0xfffffffb]@Qv[0xfffffffc][0xffffffee][0xfffffff1][0xffffffc1][0xffffff8e][0xffffffb6][0xb][0xffffff9f]=[0xffffffe0] C[0xfffffff0][0xffffffa4]T35J([0xffffffee]1m[0xffffffb4]Z[0xffffffa9]:[0xffffffef][0xffffff9d][0xffffffbc]I1[0xffffff95][0xffffffb7][0xffffffa0][0xfffffff1]L[0x6][0xffffffa4][0xffffffa3][0xfffffff3][0xffffffce][0x14]7[0xffffffbd]-[0xffffff91][0x15][0xffffffad]O[0xffffffd3][0xffffff9b][0x1e][0xffffffe8]ob[0xffffffdb](![0xffffff81]0[0xffffff89][0xffffffbe][0xffffffcf]k9[0x15][0xffffff95];[0xffffffd2][0xffffffe9][0xffffffa4]tS[0xffffffbe][0xffffffaf][0xffffffcb][0xffffffc6][0xffffff8f]I[0xffffffb2]d[0xfffffff5][0xffffffd0][0xfffffffa]z[0xffffffe0][0xffffff85][0x17]G[0xffffffb6][0xffffffac]s[0xffffffe1]{[0xffffff95][0xfffffffc][0x16]1[0xffffffff][0xfffffffd] [0xffffffa5]w[0xffffff90][0xffffffbf]rB[0xffffff8e][0xffffffe8]E[0xffffffb2][0xffffffc1][0xffffff8e][0xffffffd7][0xffffff90][0x13][0xffffff91]wT[0xffffffbc][0x3][0xffffff94][0xfffffff5].pGKar[0xffffffa0]B[0xffffffe7][0xffffffc4][0xffffffbf]O[0xffffff91]g[0xffffffd2][0xffffffb1][0xffffffb8]M[0xffffffc2]Y`[0x1b][0x13][0xfffffff3]E5[0xffffff83][0xffffffc8][0xffffffa5]I[0xc][0xffffff8f]2^C[0x10][0xffffff86]4[0xffffff99][0xffffffdb][0xffffffc9]a[0xffffff82]n_[0xffffff99][0xffffffca][0xffffff9a][0xffffffca][0xffffffd8][0xffffffe5][0xffffff8c]r[0xffffffba];[0xffffffaf][0xffffffca]72[0xffffffc1][0xfffffff5][0xffffffbf][0xffffffbb]R[0xe]Y[0xffffffd2]&[0xffffffaf]Y[0xffffffc6]tr[0xffffffa9][0xffffffdc][0xe][0xffffffb2][0xffffff8c][0xffffffac][0xffffffa8][0xffffffa4]_[0x12][0xffffffe3]V[0xffffff97]U[0xffffff93][0xffffff85][0xffffffe5]=[0xffffffe4]$[0x1c]J[0x8]([0xffffffb8][0xffffff96][0xffffffd2][0xffffffe7]:[0xffffffda]N[0xffffffb8][0xffffff8c]/t[0xffffffd6]6[0x1d][0xffffffe1][0xffffff9c]"[0xffffff83][0xffffffc9][0x8] ]Jb[0x0][0xffffffdf][0xffffffb2][0xffffff88]Q[0xfffffffb]x[0xffffffbf][0x15][0xffffffcd][0xffffff81][0xfffffffc][0xffffff8d]-<[0xffffffe4]0[0x8][0x5][0x5][0xffffff84]Q[0xffffffec]}[0xffffffd5][0xffffff9c]QP[0xffffffc5]][0xffffffa7]QPe[0x16][0xffffff8e]ym[0x14][0xffffffb8][0x6][0xffffffc7][0x1e]K[0xffffffdd][0xffffffab][0xffffff90]|E[0xffffffea][0xffffffd2]7R[0xffffffc4]+[0xffffffd1][0x1e]d[0xfffffff0][0xc][0xffffffff][0x11][0xffffffa3][0xffffffb0]<[0xffffff9d][0xffffff9f][0xffffff88][0xffffffbf][0xfffffff4][0xffffffc8][0xffffffbb]-[0xffffffba]H[0xffffffc8][[0xffffffc9][0xffffff95]Qq][0xfffffff6]-[0xffffff94]S[0xffffff91][0xffffff91][0xffffff91][0xffffffef]j[0xffffffe2]yA3[0xffffff93][0xfffffff0][0x1d]-[0xb][0xffffffcb][0xffffffe0][\n]"
+01:04:51.716 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0xffffffbb][0xffffff98][0x10]Z[0xffffffd4][0xffffffbc][0xffffffc6][0xffffffd9]`[0xffffffc9]7>[0x9][0x1c]yf[0xffffffe7][0xf]N[0xffffffd3][0xffffffba][0xffffff92][0xfffffff0][0x15]>^%-[0xffffff95]'[0xffffffea]S[0xb]:[0xffffffb4][0xffffffa7][0x15]5[0xffffff96]Sk)=]l[0xffffff85]T[0xfffffffe][0xffffffd4][0xffffff95][0xfffffff4]T[0xffffff9b]-[0xffffffce]$[0xffffffaa]t;[0xffffffac][0xffffffa4]'/([0xffffffdf][0x12][0xffffff92]-%[0xfffffffe]7[0xffffffdf][0xffffffae]/[0xfffffff0][0xffffffd4]in[0xffffff87][0xffffffe3][0xf]u[0xfffffff3][0xffffff94][0x7][0xffffff9c][0xffffffea]i[0x5][0xffffffe0]<[0xffffffba][0xffffffb0]#%[0xffffffaf][0xffffffae][0xffffffa8])[0xffffffe9][0x5]Q/[0xffffffc0][0xc]Y[0xffffffc8]#[0xffffffdb][0xfffffff0]L,[0xffffff8b][0xffffff83]G[0xffffffd0][0xffffffa2][0xffffffd0][0xffffffd1]N*[0xfffffff0]?l[0x1d]d@[0xffffffbe][0x15][0x0][0x0]"
+01:04:51.718 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 releasing valid endpoint
+01:04:51.718 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 releasing endpoint
+01:04:51.718 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+01:04:51.719 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+01:04:51.719 [main] DEBUG io.github.bonigarcia.wdm.versions.VersionDetector - Detecting chrome version using online commands.properties
+01:04:51.721 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+01:04:51.761 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+01:04:51.761 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES(X86):\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+01:04:51.784 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+01:04:51.784 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%LOCALAPPDATA:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+01:04:51.806 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+01:04:51.806 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [REG, QUERY, HKCU\Software\Google\Chrome\BLBeacon, /v, version]
+01:04:51.831 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon
+    version    REG_SZ    144.0.7559.110
+01:04:51.833 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:04:51.833 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:04:51.834 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:04:51.897 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:04:51.899 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:04:57.968 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:04:57.988 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:04:57.989 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:04:57.989 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:04:58.004 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:04:58.005 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:05:30.458 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:05:30.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:05:31.138 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:05:31.647 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:05:31.648 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:05:31.649 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:05:31.691 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:05:31.692 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:05:34.724 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:05:34.771 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:05:36.119 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:05:37.421 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:05:38.786 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:05:38.803 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:05:38.805 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:05:38.805 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:05:38.838 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:05:38.840 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:05:40.459 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:33:03.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:33:04.267 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:33:04.736 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:33:04.738 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:33:04.738 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:33:04.772 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:33:04.773 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:33:07.592 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:33:07.633 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:33:09.212 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:33:10.542 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:33:12.538 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:33:12.555 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:33:12.556 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:33:12.556 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:33:12.585 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:33:12.586 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:33:14.396 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:33:59.465 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:34:00.093 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:34:00.559 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:34:00.560 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:34:00.561 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:34:00.597 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:34:00.598 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:34:02.914 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:34:02.946 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:34:04.320 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:34:05.846 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:34:07.212 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:34:07.230 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:34:07.231 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:34:07.231 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:34:07.265 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:34:07.266 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:34:09.083 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:36:05.999 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:36:06.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:36:06.573 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:36:07.047 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:36:07.048 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:36:07.049 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:36:07.085 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:36:07.086 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:36:09.421 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:36:09.475 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:36:10.860 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:36:12.403 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:36:13.898 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:36:13.917 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:36:13.919 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:36:13.919 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:36:13.957 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:36:13.959 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:36:15.717 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:39:39.833 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:39:40.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:39:40.482 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:39:40.954 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:39:40.957 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:39:40.958 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:39:41.006 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:39:41.007 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:39:43.457 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:39:43.503 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:39:44.859 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:39:47.381 [main] ERROR testCases.TC001_AccountRegistration - Regristration Failed.....
+01:39:47.945 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:39:47.955 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:39:47.956 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:39:47.956 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:39:47.977 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:39:47.978 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:39:49.646 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:42:49.957 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:42:50.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:42:50.628 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:42:51.110 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:42:51.112 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:42:51.113 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:42:51.153 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:42:51.154 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:42:53.472 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:42:53.516 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:42:54.830 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:42:56.223 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:42:57.612 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:42:57.634 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:42:57.635 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:42:57.635 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:42:57.655 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:42:57.656 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:42:59.384 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:46:58.411 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:46:58.851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:46:59.139 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:46:59.625 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:46:59.627 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:46:59.627 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:46:59.671 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:46:59.672 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:47:02.000 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:47:02.048 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:47:03.435 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:47:04.853 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:47:06.220 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:47:06.241 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:47:06.242 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:47:06.242 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:47:06.276 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:47:06.277 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:47:08.100 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:49:52.680 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\grid-docker.xml"
+01:49:53.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\grid-docker.xml
+
+01:49:53.340 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:49:53.872 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:49:53.873 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:49:53.874 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:49:53.912 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:49:53.913 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:49:56.398 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+01:49:56.455 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+01:49:58.011 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+01:49:59.528 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+01:50:00.895 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+01:50:00.914 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 02:04:51 01/02/2026 IST)
+01:50:00.915 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+01:50:00.916 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+01:50:00.944 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+01:50:00.945 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+01:50:02.789 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+01:52:15.826 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:52:16.165 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+01:53:17.471 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+01:53:17.870 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+08:29:30.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+08:29:30.703 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+08:29:30.965 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+08:29:31.338 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Removing resolution chrome=144 from cache (expired on 2026-02-01T02:04:51.000+0530)
+08:29:31.362 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 preparing request execution
+08:29:31.370 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+08:29:31.370 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+08:29:31.370 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+08:29:31.370 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+08:29:31.371 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+08:29:31.374 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+08:29:31.382 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+08:29:31.382 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+08:29:31.382 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+08:29:31.383 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 connecting endpoint (null)
+08:29:31.385 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+08:29:31.385 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+08:29:31.448 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.111.133]
+08:29:31.450 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.110.133:443 (30 SECONDS)
+08:29:31.450 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/185.199.110.133:443 with timeout 30 SECONDS
+08:29:31.504 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1.3, TLSv1.2]
+08:29:31.505 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+08:29:31.505 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Starting handshake (null)
+08:29:31.640 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Secure session established
+08:29:31.640 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.3
+08:29:31.641 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+08:29:31.642 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer principal: CN=*.github.io
+08:29:31.642 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer alternative names: [*.github.io, *.github.com, *.githubusercontent.com, github.com, github.io, githubusercontent.com, www.github.com]
+08:29:31.642 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  issuer principal: CN=Sectigo RSA Domain Validation Secure Server CA, O=Sectigo Limited, L=Salford, ST=Greater Manchester, C=GB
+08:29:31.643 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+08:29:31.643 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.110.133:443 as http-outgoing-0
+08:29:31.643 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+08:29:31.643 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 endpoint connected
+08:29:31.644 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+08:29:31.644 [main] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 start execution ex-0000000001
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> cache-control: max-age=0
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> connection: keep-alive
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+08:29:31.652 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+08:29:31.653 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 946[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+08:29:31.688 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Sun, 01 Feb 2026 02:59:31 GMT[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Served-By: cache-bom-vanm7210080-BOM[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache-Hits: 2[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Timer: S1769914771.011580,VS0,VE0[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: df56b9e2daefea8c6af55721aa07a5389d4709ca[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Expires: Sun, 01 Feb 2026 03:04:31 GMT[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Source-Age: 162[\r][\n]"
+08:29:31.689 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 946
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+08:29:31.691 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Frame-Options: deny
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Sun, 01 Feb 2026 02:59:31 GMT
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Via: 1.1 varnish
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Served-By: cache-bom-vanm7210080-BOM
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache: HIT
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache-Hits: 2
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Timer: S1769914771.011580,VS0,VE0
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: df56b9e2daefea8c6af55721aa07a5389d4709ca
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Sun, 01 Feb 2026 03:04:31 GMT
+08:29:31.692 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 162
+08:29:31.696 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+08:29:31.710 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]X[0xffffffd1]n[0xffffffda]0[0x14]}[0xffffffe7]+,[0xffffffba]J [0x11][0xffffffb2][0x1][0xffffffeb][0xffffffaa]Jy[0xffffffa0][0x19]e[0xffffffd5][0xffffffa8]`[0xffffffd0]v[0xffffff9b][0xffffffe4][0x17][0xffffff93]8`)[0xffffff89]Q[0xffffff9c]@[0xffffffb7][0xffffffa9][0xfffffffb][0xfffffff6]9NB[0xffffffe3]$[0xc]H[0xffffffe0][0xffffffad][0xffffff8e][0xffffff8f][0xffffffef]97[0xffffffdc]s}[0xffffffd3][0xb][0xffffffa0]S[0xffffffc7]A[0xffffffae][0xffffffc9][0xffffff80][0xffffff89]|4G[0xc][0xffffffd7].[0xffffffc0][0xffffffe3][0xffffff92]0`[0x11][0x1b][0x3][0xffffff83][0xffffffba]>".[0x3][0xfffffffe]2\[0xffffffc4]P[0xffffff9f][0xffffff82]9[0x6][0xfffffff8][0x5][0x1b][0xffffff81][0xffffff8f]M@\[0xffffffb1][0xffffffcd][0xffffff96][0xffffffd8][0xffffffb6][0xffffffc3][0x5][0xfffffff5]L[0xffffffec][0xffffff85] [0x13][0xfffffffb][0xffffffd8][0xfffffff0][0xffffffc5][0xffffffe6][0x1a]{[0xffffff8c]P[0xffffffbe]g[0x1][0xffffffcc][0xffffffff]^x[0x18][0xffffffbb]`[0xffffffee][0xffffffd1][\r][0xffffffe3][0x1b][0xffffff9c][0xffffffb2][0xffffffa1]/=[0xffffffea][0xffffffe0][0x16][0xffffffb8]#[0x1e][0xffffffb6][0xffffffe8]K[0xb][0xffffff8c]W[0xffffffd8]C-00[0x17][0xfffffffc][0xffffffa9][0xffffffd8]%[0xffffff81][0xffffffd3][0xc][0xffffffe3][0xffffff9b][0xffffffc4][0xffffffb2][0xffffffb0][0xffffff87]][0x1f][0xffffffd0][0x10][0xffffffe3][0x13]w[0x1][0xffffffd8]/[0xffffffe6]c[0xffffff87][0xffffff81][0xffffffc6]w[0xffffffe2][0xffffff9a]<j[0xb][0xffffff8c][0xffffff88][0x1b][0xfffffff0]0[0xf][0xffffffc8][0x0][0xffffffe3]Y[0xffffffb3][0xffffffc6]9"[0xffffff8a]Z[0xffffff9c]F[0xffffffdb][0x10][0xffffffcb][0xfffffff6]&:[0xffffffd0]~[0xffffffff]A3[0x1c][0xffffffb3][0xffffffcd][0xffffffb3][0x2][0xffffffaa][0xe]6[0xe]1[0xffffffc4]+[0x11][0xffffffaf]a[0xffffffb3][0xffffffe4]|[0xffffffc0]E[0xe][0xffffffd6][0xffffffea][0xffffff97][0xffffff93][0xffffffe9]x8[0xffffffed]?[0xffffffdc][0xffffffdd][0xffffff8f][0x6][0xffffffb3][0x1b][0xffffffa8]Ax[0x9][0xffffffe1][0xffffff90][0xffffffd2][0xffffff85][0xffffff8d]![0xffffff8c]( [0xffffffec][0xffffffaf]V61[0xffffffb8]4[0xffffffea]B[0x18][0x13][0xfffffff1][0xffffffc8]u[0xffffffb0][0xffffffc0]>x[0xffffff8e][0xffffffdf][0xffffff85][0xffffffba]Fv[0xffffffb0][O[0xffffffa7][0xffffff84][0xffffff9e][0xffffffc6][0xffffff8f][0xffffffeb][0xffffffab][0xffffffe6]9Eu[0xf][0x14]5[0x1a][0xffffffeb][0xfffffffd]Q[0x7f]2[0xfffffff9][0xffffffdc][0x7f][0xffffffec][0xffffff9f]SOO[0xffffff9b][0xe][0xffffff86][0xffffffe0][0xffffffdb][0xffffffd3]`[0xfffffffa][0x13]|[0xfffffff9][0xffffffaa]?[0xffffffc1][0x19][0xffffffb5][0xfffffffc][\r][0xfffffff2]p[0xffffffc2][0x16][0xffffff93][0xffffffdd][0xffffff8e]n12D[0xffffffbc][0xffffffa4][0x16]w[0xffffffc6][0xfffffffc][0xffffffa8][0xffffffad][0xffffffe8][0xffffff86]c[0xffffffc2]z[0x16][0xffffffa9]*[0xffffffb1]I@c[0xffffff88]}[0xffffffe5][0xffffff9e][0x17][0x1a][0xffffffa8][0xffffffbf][0xfffffffb][0xffffff83][0xffffffdd][0xfffffff5]M:[0xffffffcd][0xffffffd7][0xc]e:[0xffffffbd]Tv[0xffffffcd]v[0xffffff9c][0xffffffda][0xffffffbd]k[0xffffffd1][0xfffffff6][0xffffffc4][0xffffffa3]f`[0xfffffff8][0xffffffcf]{$][0x1d].)W[0xe][0xffffffe7][0xffffffd4][0xfffffff5][0xffffffa9][0xffffff9c][0xffffffae]SH[0xffffffca]j[0xffffffb2]C[0xffffffbf][0xffffff87].V[0x3][0xffffffe6][0xffffffa9]s[0xffffffe2][0xffffffaa][0xb][0xffffffc1][0xffffffa1]D[0xfffffffb]@Qv[0xfffffffc][0xffffffee][0xfffffff1][0xffffffc1][0xffffff8e][0xffffffb6][0xb][0xffffff9f]=[0xffffffe0] C[0xfffffff0][0xffffffa4]T35J([0xffffffee]1m[0xffffffb4]Z[0xffffffa9]:[0xffffffef][0xffffff9d][0xffffffbc]I1[0xffffff95][0xffffffb7][0xffffffa0][0xfffffff1]L[0x6][0xffffffa4][0xffffffa3][0xfffffff3][0xffffffce][0x14]7[0xffffffbd]-[0xffffff91][0x15][0xffffffad]O[0xffffffd3][0xffffff9b][0x1e][0xffffffe8]ob[0xffffffdb](![0xffffff81]0[0xffffff89][0xffffffbe][0xffffffcf]k9[0x15][0xffffff95];[0xffffffd2][0xffffffe9][0xffffffa4]tS[0xffffffbe][0xffffffaf][0xffffffcb][0xffffffc6][0xffffff8f]I[0xffffffb2]d[0xfffffff5][0xffffffd0][0xfffffffa]z[0xffffffe0][0xffffff85][0x17]G[0xffffffb6][0xffffffac]s[0xffffffe1]{[0xffffff95][0xfffffffc][0x16]1[0xffffffff][0xfffffffd] [0xffffffa5]w[0xffffff90][0xffffffbf]rB[0xffffff8e][0xffffffe8]E[0xffffffb2][0xffffffc1][0xffffff8e][0xffffffd7][0xffffff90][0x13][0xffffff91]wT[0xffffffbc][0x3][0xffffff94][0xfffffff5].pGKar[0xffffffa0]B[0xffffffe7][0xffffffc4][0xffffffbf]O[0xffffff91]g[0xffffffd2][0xffffffb1][0xffffffb8]M[0xffffffc2]Y`[0x1b][0x13][0xfffffff3]E5[0xffffff83][0xffffffc8][0xffffffa5]I[0xc][0xffffff8f]2^C[0x10][0xffffff86]4[0xffffff99][0xffffffdb][0xffffffc9]a[0xffffff82]n_[0xffffff99][0xffffffca][0xffffff9a][0xffffffca][0xffffffd8][0xffffffe5][0xffffff8c]r[0xffffffba];[0xffffffaf][0xffffffca]72[0xffffffc1][0xfffffff5][0xffffffbf][0xffffffbb]R[0xe]Y[0xffffffd2]&[0xffffffaf]Y[0xffffffc6]tr[0xffffffa9][0xffffffdc][0xe][0xffffffb2][0xffffff8c][0xffffffac][0xffffffa8][0xffffffa4]_[0x12][0xffffffe3]V[0xffffff97]U[0xffffff93][0xffffff85][0xffffffe5]=[0xffffffe4]$[0x1c]J[0x8]([0xffffffb8][0xffffff96][0xffffffd2][0xffffffe7]:[0xffffffda]N[0xffffffb8][0xffffff8c]/t[0xffffffd6]6[0x1d][0xffffffe1][0xffffff9c]"[0xffffff83][0xffffffc9][0x8] ]Jb[0x0][0xffffffdf][0xffffffb2][0xffffff88]Q[0xfffffffb]x[0xffffffbf][0x15][0xffffffcd][0xffffff81][0xfffffffc][0xffffff8d]-<[0xffffffe4]0[0x8][0x5][0x5][0xffffff84]Q[0xffffffec]}[0xffffffd5][0xffffff9c]QP[0xffffffc5]][0xffffffa7]QPe[0x16][0xffffff8e]ym[0x14][0xffffffb8][0x6][0xffffffc7][0x1e]K[0xffffffdd][0xffffffab][0xffffff90]|E[0xffffffea][0xffffffd2]7R[0xffffffc4]+[0xffffffd1][0x1e]d[0xfffffff0][0xc][0xffffffff][0x11][0xffffffa3][0xffffffb0]<[0xffffff9d][0xffffff9f][0xffffff88][0xffffffbf][0xfffffff4][0xffffffc8][0xffffffbb]-[0xffffffba]H[0xffffffc8][[0xffffffc9][0xffffff95]Qq][0xfffffff6]-[0xffffff94]S[0xffffff91][0xffffff91][0xffffff91][0xffffffef]j[0xffffffe2]yA3[0xffffff93][0xfffffff0][0x1d]-[0xb][0xffffffcb][0xffffffe0][\n]"
+08:29:31.710 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0xffffffbb][0xffffff98][0x10]Z[0xffffffd4][0xffffffbc][0xffffffc6][0xffffffd9]`[0xffffffc9]7>[0x9][0x1c]yf[0xffffffe7][0xf]N[0xffffffd3][0xffffffba][0xffffff92][0xfffffff0][0x15]>^%-[0xffffff95]'[0xffffffea]S[0xb]:[0xffffffb4][0xffffffa7][0x15]5[0xffffff96]Sk)=]l[0xffffff85]T[0xfffffffe][0xffffffd4][0xffffff95][0xfffffff4]T[0xffffff9b]-[0xffffffce]$[0xffffffaa]t;[0xffffffac][0xffffffa4]'/([0xffffffdf][0x12][0xffffff92]-%[0xfffffffe]7[0xffffffdf][0xffffffae]/[0xfffffff0][0xffffffd4]in[0xffffff87][0xffffffe3][0xf]u[0xfffffff3][0xffffff94][0x7][0xffffff9c][0xffffffea]i[0x5][0xffffffe0]<[0xffffffba][0xffffffb0]#%[0xffffffaf][0xffffffae][0xffffffa8])[0xffffffe9][0x5]Q/[0xffffffc0][0xc]Y[0xffffffc8]#[0xffffffdb][0xfffffff0]L,[0xffffff8b][0xffffff83]G[0xffffffd0][0xffffffa2][0xffffffd0][0xffffffd1]N*[0xfffffff0]?l[0x1d]d@[0xffffffbe][0x15][0x0][0x0]"
+08:29:31.712 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 releasing valid endpoint
+08:29:31.712 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 releasing endpoint
+08:29:31.712 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+08:29:31.712 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+08:29:31.713 [main] DEBUG io.github.bonigarcia.wdm.versions.VersionDetector - Detecting chrome version using online commands.properties
+08:29:31.720 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+08:29:31.761 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+08:29:31.762 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES(X86):\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+08:29:31.791 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+08:29:31.791 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%LOCALAPPDATA:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+08:29:31.829 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+08:29:31.829 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [REG, QUERY, HKCU\Software\Google\Chrome\BLBeacon, /v, version]
+08:29:31.862 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon
+    version    REG_SZ    144.0.7559.110
+08:29:31.865 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+08:29:31.865 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+08:29:31.867 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome=144 in cache (valid until 09:29:31 01/02/2026 IST)
+08:29:31.933 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+08:29:31.934 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+08:29:34.241 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+08:29:34.266 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+08:29:35.054 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+08:29:35.819 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+08:29:36.688 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+08:29:36.704 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 09:29:31 01/02/2026 IST)
+08:29:36.705 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+08:29:36.705 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+08:29:36.719 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+08:29:36.720 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+08:29:37.806 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+08:49:35.375 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+08:49:36.340 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+08:49:36.907 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 09:29:31 01/02/2026 IST)
+08:49:36.909 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+08:49:36.909 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+08:49:36.955 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+08:49:36.956 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+08:49:39.915 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+08:49:39.954 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+08:49:41.525 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+08:49:43.126 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+08:49:44.545 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+08:49:44.563 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 09:29:31 01/02/2026 IST)
+08:49:44.565 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+08:49:44.565 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+08:49:44.598 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+08:49:44.599 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+08:49:46.426 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+08:54:22.710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+08:56:35.331 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\grid-docker.xml"
+09:14:37.630 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+09:28:53.605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+09:36:45.479 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+09:45:59.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+09:45:59.871 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+13:07:58.377 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:07:59.522 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:08:00.339 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Removing resolution chrome=144 from cache (expired on 2026-02-01T09:29:31.000+0530)
+13:08:00.385 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 preparing request execution
+13:08:00.395 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+13:08:00.396 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+13:08:00.396 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+13:08:00.397 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+13:08:00.398 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+13:08:00.402 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+13:08:00.416 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+13:08:00.417 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+13:08:00.417 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+13:08:00.418 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 connecting endpoint (null)
+13:08:00.421 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+13:08:00.421 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+13:08:00.442 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.111.133]
+13:08:00.457 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.110.133:443 (30 SECONDS)
+13:08:00.458 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/185.199.110.133:443 with timeout 30 SECONDS
+13:08:00.567 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1.3, TLSv1.2]
+13:08:00.568 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:08:00.568 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Starting handshake (null)
+13:08:00.815 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Secure session established
+13:08:00.815 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.3
+13:08:00.815 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+13:08:00.819 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer principal: CN=*.github.io
+13:08:00.819 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer alternative names: [*.github.io, *.github.com, *.githubusercontent.com, github.com, github.io, githubusercontent.com, www.github.com]
+13:08:00.819 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  issuer principal: CN=Sectigo RSA Domain Validation Secure Server CA, O=Sectigo Limited, L=Salford, ST=Greater Manchester, C=GB
+13:08:00.820 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+13:08:00.820 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.110.133:443 as http-outgoing-0
+13:08:00.820 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+13:08:00.820 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 endpoint connected
+13:08:00.821 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+13:08:00.821 [main] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+13:08:00.832 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 start execution ex-0000000001
+13:08:00.832 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> cache-control: max-age=0
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> connection: keep-alive
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+13:08:00.833 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 946[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Sun, 01 Feb 2026 07:37:59 GMT[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Served-By: cache-bom-vanm7210095-BOM[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+13:08:00.851 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Timer: S1769931479.457242,VS0,VE1[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: 5fcb02bfb2dbd9811a6f56d1c528be9ff84e1524[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Expires: Sun, 01 Feb 2026 07:42:59 GMT[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Source-Age: 1[\r][\n]"
+13:08:00.852 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+13:08:00.871 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+13:08:00.871 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+13:08:00.871 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 946
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Frame-Options: deny
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-GitHub-Request-Id: A6C8:C9BE4:11F3C5:1FD63E:69600D65
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Sun, 01 Feb 2026 07:37:59 GMT
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Via: 1.1 varnish
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Served-By: cache-bom-vanm7210095-BOM
+13:08:00.872 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache: HIT
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache-Hits: 1
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Timer: S1769931479.457242,VS0,VE1
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: 5fcb02bfb2dbd9811a6f56d1c528be9ff84e1524
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Sun, 01 Feb 2026 07:42:59 GMT
+13:08:00.873 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 1
+13:08:00.878 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+13:08:00.907 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]X[0xffffffd1]n[0xffffffda]0[0x14]}[0xffffffe7]+,[0xffffffba]J [0x11][0xffffffb2][0x1][0xffffffeb][0xffffffaa]Jy[0xffffffa0][0x19]e[0xffffffd5][0xffffffa8]`[0xffffffd0]v[0xffffff9b][0xffffffe4][0x17][0xffffff93]8`)[0xffffff89]Q[0xffffff9c]@[0xffffffb7][0xffffffa9][0xfffffffb][0xfffffff6]9NB[0xffffffe3]$[0xc]H[0xffffffe0][0xffffffad][0xffffff8e][0xffffff8f][0xffffffef]97[0xffffffdc]s}[0xffffffd3][0xb][0xffffffa0]S[0xffffffc7]A[0xffffffae][0xffffffc9][0xffffff80][0xffffff89]|4G[0xc][0xffffffd7].[0xffffffc0][0xffffffe3][0xffffff92]0`[0x11][0x1b][0x3][0xffffff83][0xffffffba]>".[0x3][0xfffffffe]2\[0xffffffc4]P[0xffffff9f][0xffffff82]9[0x6][0xfffffff8][0x5][0x1b][0xffffff81][0xffffff8f]M@\[0xffffffb1][0xffffffcd][0xffffff96][0xffffffd8][0xffffffb6][0xffffffc3][0x5][0xfffffff5]L[0xffffffec][0xffffff85] [0x13][0xfffffffb][0xffffffd8][0xfffffff0][0xffffffc5][0xffffffe6][0x1a]{[0xffffff8c]P[0xffffffbe]g[0x1][0xffffffcc][0xffffffff]^x[0x18][0xffffffbb]`[0xffffffee][0xffffffd1][\r][0xffffffe3][0x1b][0xffffff9c][0xffffffb2][0xffffffa1]/=[0xffffffea][0xffffffe0][0x16][0xffffffb8]#[0x1e][0xffffffb6][0xffffffe8]K[0xb][0xffffff8c]W[0xffffffd8]C-00[0x17][0xfffffffc][0xffffffa9][0xffffffd8]%[0xffffff81][0xffffffd3][0xc][0xffffffe3][0xffffff9b][0xffffffc4][0xffffffb2][0xffffffb0][0xffffff87]][0x1f][0xffffffd0][0x10][0xffffffe3][0x13]w[0x1][0xffffffd8]/[0xffffffe6]c[0xffffff87][0xffffff81][0xffffffc6]w[0xffffffe2][0xffffff9a]<j[0xb][0xffffff8c][0xffffff88][0x1b][0xfffffff0]0[0xf][0xffffffc8][0x0][0xffffffe3]Y[0xffffffb3][0xffffffc6]9"[0xffffff8a]Z[0xffffff9c]F[0xffffffdb][0x10][0xffffffcb][0xfffffff6]&:[0xffffffd0]~[0xffffffff]A3[0x1c][0xffffffb3][0xffffffcd][0xffffffb3][0x2][0xffffffaa][0xe]6[0xe]1[0xffffffc4]+[0x11][0xffffffaf]a[0xffffffb3][0xffffffe4]|[0xffffffc0]E[0xe][0xffffffd6][0xffffffea][0xffffff97][0xffffff93][0xffffffe9]x8[0xffffffed]?[0xffffffdc][0xffffffdd][0xffffff8f][0x6][0xffffffb3][0x1b][0xffffffa8]Ax[0x9][0xffffffe1][0xffffff90][0xffffffd2][0xffffff85][0xffffff8d]![0xffffff8c]( [0xffffffec][0xffffffaf]V61[0xffffffb8]4[0xffffffea]B[0x18][0x13][0xfffffff1][0xffffffc8]u[0xffffffb0][0xffffffc0]>x[0xffffff8e][0xffffffdf][0xffffff85][0xffffffba]Fv[0xffffffb0][O[0xffffffa7][0xffffff84][0xffffff9e][0xffffffc6][0xffffff8f][0xffffffeb][0xffffffab][0xffffffe6]9Eu[0xf][0x14]5[0x1a][0xffffffeb][0xfffffffd]Q[0x7f]2[0xfffffff9][0xffffffdc][0x7f][0xffffffec][0xffffff9f]SOO[0xffffff9b][0xe][0xffffff86][0xffffffe0][0xffffffdb][0xffffffd3]`[0xfffffffa][0x13]|[0xfffffff9][0xffffffaa]?[0xffffffc1][0x19][0xffffffb5][0xfffffffc][\r][0xfffffff2]p[0xffffffc2][0x16][0xffffff93][0xffffffdd][0xffffff8e]n12D[0xffffffbc][0xffffffa4][0x16]w[0xffffffc6][0xfffffffc][0xffffffa8][0xffffffad][0xffffffe8][0xffffff86]c[0xffffffc2]z[0x16][0xffffffa9]*[0xffffffb1]I@c[0xffffff88]}[0xffffffe5][0xffffff9e][0x17][0x1a][0xffffffa8][0xffffffbf][0xfffffffb][0xffffff83][0xffffffdd][0xfffffff5]M:[0xffffffcd][0xffffffd7][0xc]e:[0xffffffbd]Tv[0xffffffcd]v[0xffffff9c][0xffffffda][0xffffffbd]k[0xffffffd1][0xfffffff6][0xffffffc4][0xffffffa3]f`[0xfffffff8][0xffffffcf]{$][0x1d].)W[0xe][0xffffffe7][0xffffffd4][0xfffffff5][0xffffffa9][0xffffff9c][0xffffffae]SH[0xffffffca]j[0xffffffb2]C[0xffffffbf][0xffffff87].V[0x3][0xffffffe6][0xffffffa9]s[0xffffffe2][0xffffffaa][0xb][0xffffffc1][0xffffffa1]D[0xfffffffb]@Qv[0xfffffffc][0xffffffee][0xfffffff1][0xffffffc1][0xffffff8e][0xffffffb6][0xb][0xffffff9f]=[0xffffffe0] C[0xfffffff0][0xffffffa4]T35J([0xffffffee]1m[0xffffffb4]Z[0xffffffa9]:[0xffffffef][0xffffff9d][0xffffffbc]I1[0xffffff95][0xffffffb7][0xffffffa0][0xfffffff1]L[0x6][0xffffffa4][0xffffffa3][0xfffffff3][0xffffffce][0x14]7[0xffffffbd]-[0xffffff91][0x15][0xffffffad]O[0xffffffd3][0xffffff9b][0x1e][0xffffffe8]ob[0xffffffdb](![0xffffff81]0[0xffffff89][0xffffffbe][0xffffffcf]k9[0x15][0xffffff95];[0xffffffd2][0xffffffe9][0xffffffa4]tS[0xffffffbe][0xffffffaf][0xffffffcb][0xffffffc6][0xffffff8f]I[0xffffffb2]d[0xfffffff5][0xffffffd0][0xfffffffa]z[0xffffffe0][0xffffff85][0x17]G[0xffffffb6][0xffffffac]s[0xffffffe1]{[0xffffff95][0xfffffffc][0x16]1[0xffffffff][0xfffffffd] [0xffffffa5]w[0xffffff90][0xffffffbf]rB[0xffffff8e][0xffffffe8]E[0xffffffb2][0xffffffc1][0xffffff8e][0xffffffd7][0xffffff90][0x13][0xffffff91]wT[0xffffffbc][0x3][0xffffff94][0xfffffff5].pGKar[0xffffffa0]B[0xffffffe7][0xffffffc4][0xffffffbf]O[0xffffff91]g[0xffffffd2][0xffffffb1][0xffffffb8]M[0xffffffc2]Y`[0x1b][0x13][0xfffffff3]E5[0xffffff83][0xffffffc8][0xffffffa5]I[0xc][0xffffff8f]2^C[0x10][0xffffff86]4[0xffffff99][0xffffffdb][0xffffffc9]a[0xffffff82]n_[0xffffff99][0xffffffca][0xffffff9a][0xffffffca][0xffffffd8][0xffffffe5][0xffffff8c]r[0xffffffba];[0xffffffaf][0xffffffca]72[0xffffffc1][0xfffffff5][0xffffffbf][0xffffffbb]R[0xe]Y[0xffffffd2]&[0xffffffaf]Y[0xffffffc6]tr[0xffffffa9][0xffffffdc][0xe][0xffffffb2][0xffffff8c][0xffffffac][0xffffffa8][0xffffffa4]_[0x12][0xffffffe3]V[0xffffff97]U[0xffffff93][0xffffff85][0xffffffe5]=[0xffffffe4]$[0x1c]J[0x8]([0xffffffb8][0xffffff96][0xffffffd2][0xffffffe7]:[0xffffffda]N[0xffffffb8][0xffffff8c]/t[0xffffffd6]6[0x1d][0xffffffe1][0xffffff9c]"[0xffffff83][0xffffffc9][0x8] ]Jb[0x0][0xffffffdf][0xffffffb2][0xffffff88]Q[0xfffffffb]x[0xffffffbf][0x15][0xffffffcd][0xffffff81][0xfffffffc][0xffffff8d]-<[0xffffffe4]0[0x8][0x5][0x5][0xffffff84]Q[0xffffffec]}[0xffffffd5][0xffffff9c]QP[0xffffffc5]][0xffffffa7]QPe[0x16][0xffffff8e]ym[0x14][0xffffffb8][0x6][0xffffffc7][0x1e]K[0xffffffdd][0xffffffab][0xffffff90]|E[0xffffffea][0xffffffd2]7R[0xffffffc4]+[0xffffffd1][0x1e]d[0xfffffff0][0xc][0xffffffff][0x11][0xffffffa3][0xffffffb0]<[0xffffff9d][0xffffff9f][0xffffff88][0xffffffbf][0xfffffff4][0xffffffc8][0xffffffbb]-[0xffffffba]H[0xffffffc8][[0xffffffc9][0xffffff95]Qq][0xfffffff6]-[0xffffff94]S[0xffffff91][0xffffff91][0xffffff91][0xffffffef]j[0xffffffe2]yA3[0xffffff93][0xfffffff0][0x1d]-[0xb][0xffffffcb][0xffffffe0][\n]"
+13:08:00.908 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0xffffffbb][0xffffff98][0x10]Z[0xffffffd4][0xffffffbc][0xffffffc6][0xffffffd9]`[0xffffffc9]7>[0x9][0x1c]yf[0xffffffe7][0xf]N[0xffffffd3][0xffffffba][0xffffff92][0xfffffff0][0x15]>^%-[0xffffff95]'[0xffffffea]S[0xb]:[0xffffffb4][0xffffffa7][0x15]5[0xffffff96]Sk)=]l[0xffffff85]T[0xfffffffe][0xffffffd4][0xffffff95][0xfffffff4]T[0xffffff9b]-[0xffffffce]$[0xffffffaa]t;[0xffffffac][0xffffffa4]'/([0xffffffdf][0x12][0xffffff92]-%[0xfffffffe]7[0xffffffdf][0xffffffae]/[0xfffffff0][0xffffffd4]in[0xffffff87][0xffffffe3][0xf]u[0xfffffff3][0xffffff94][0x7][0xffffff9c][0xffffffea]i[0x5][0xffffffe0]<[0xffffffba][0xffffffb0]#%[0xffffffaf][0xffffffae][0xffffffa8])[0xffffffe9][0x5]Q/[0xffffffc0][0xc]Y[0xffffffc8]#[0xffffffdb][0xfffffff0]L,[0xffffff8b][0xffffff83]G[0xffffffd0][0xffffffa2][0xffffffd0][0xffffffd1]N*[0xfffffff0]?l[0x1d]d@[0xffffffbe][0x15][0x0][0x0]"
+13:08:00.911 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 releasing valid endpoint
+13:08:00.911 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 releasing endpoint
+13:08:00.911 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+13:08:00.915 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+13:08:00.916 [main] DEBUG io.github.bonigarcia.wdm.versions.VersionDetector - Detecting chrome version using online commands.properties
+13:08:00.944 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+13:08:01.022 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+13:08:01.023 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES(X86):\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+13:08:01.091 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+13:08:01.092 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%LOCALAPPDATA:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+13:08:01.163 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: 
+13:08:01.164 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [REG, QUERY, HKCU\Software\Google\Chrome\BLBeacon, /v, version]
+13:08:01.257 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon
+    version    REG_SZ    144.0.7559.110
+13:08:01.262 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:08:01.262 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:08:01.265 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:08:01.378 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:08:01.379 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:08:03.358 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:08:03.399 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:08:03.400 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:08:03.401 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:08:03.459 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:08:03.461 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:09:17.176 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:09:17.833 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:09:18.303 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:09:18.304 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:09:18.305 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:09:18.338 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:09:18.339 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:09:19.958 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:09:19.990 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:09:19.992 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:09:19.992 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:09:20.041 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:09:20.042 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:10:58.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:10:58.570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+13:10:58.865 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:10:59.655 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:10:59.657 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:10:59.658 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:10:59.696 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:10:59.697 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:11:01.250 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:11:01.278 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:11:01.280 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:11:01.280 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:11:01.321 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:11:01.324 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:11:30.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:11:31.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+13:11:31.630 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:11:32.128 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:11:32.129 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:11:32.130 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:11:32.164 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:11:32.165 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:11:44.719 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+13:11:44.755 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+13:12:04.924 [main] ERROR testCases.TC001_AccountRegistration - Test failed....
+13:12:05.724 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:12:05.752 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:12:05.760 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:12:05.760 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:12:05.843 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:12:05.848 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:12:12.489 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+13:27:50.934 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:27:51.343 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+13:27:51.698 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:27:52.228 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:27:52.229 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:27:52.230 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:27:52.265 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:27:52.266 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:27:54.649 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+13:27:54.682 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+13:27:56.639 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+13:27:58.310 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+13:28:00.356 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:28:00.366 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:28:00.367 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:28:00.367 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:28:00.390 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:28:00.392 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:28:02.038 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+13:29:17.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:29:18.054 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:29:18.559 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:29:18.560 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:29:18.561 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:29:18.598 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:29:18.599 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:29:21.059 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+13:29:21.075 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+13:29:22.596 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+13:29:24.140 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+13:29:25.478 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:29:25.493 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:29:25.494 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:29:25.494 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:29:25.512 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:29:25.513 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:29:27.198 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+13:51:10.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:51:11.253 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:51:11.652 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:51:11.653 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:51:11.654 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:51:11.688 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:51:11.689 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:51:13.422 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+13:51:13.439 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+13:51:14.499 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+13:51:15.375 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+13:51:16.479 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:51:16.495 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:51:16.497 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:51:16.497 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:51:16.528 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:51:16.529 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:51:17.860 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+13:56:02.598 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+13:56:03.015 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:56:03.365 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:56:03.366 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:56:03.367 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:56:03.397 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:56:03.398 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:56:05.212 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+13:56:05.229 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+13:56:06.225 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+13:56:07.304 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+13:56:08.391 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+13:56:08.407 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 14:08:01 01/02/2026 IST)
+13:56:08.408 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+13:56:08.408 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+13:56:08.423 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+13:56:08.424 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+13:56:09.917 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
