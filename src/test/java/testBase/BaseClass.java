@@ -36,7 +36,7 @@ public class BaseClass {
 	   
 	   
 	
- @SuppressWarnings("deprecation")
+ 
 @BeforeClass(groups= {"Sanity", "Regression", "Master"})
  @Parameters({"os", "browser"})
 	public void Setup(String os, String br) throws IOException {
