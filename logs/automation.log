@@ -777,3 +777,24 @@
 20:49:35.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
 
+21:13:03.320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+21:13:03.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+21:13:03.994 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+21:13:04.460 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 21:52:26 01/02/2026 IST)
+21:13:04.461 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+21:13:04.462 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+21:13:04.504 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+21:13:04.505 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+21:13:07.048 [main] INFO  testCases.TC001_AccountRegistration -  Driver Setup  Completed....
+21:13:07.080 [main] INFO  testCases.TC001_AccountRegistration - Starting the HomePage .......
+21:13:08.545 [main] INFO  testCases.TC001_AccountRegistration - Starting the Registration Page.....
+21:13:09.801 [main] INFO  testCases.TC001_AccountRegistration - Validating the page at the end...
+21:13:11.448 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+21:13:11.481 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=144 in cache (valid until 21:52:26 01/02/2026 IST)
+21:13:11.482 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome144=144.0.7559.109 in cache (valid until 23:19:46 01/02/2026 IST)
+21:13:11.484 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 144.0.7559.109 (resolved driver for Chrome 144)
+21:13:11.552 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
+21:13:11.555 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
+21:13:13.483 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
