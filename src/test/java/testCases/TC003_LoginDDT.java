@@ -7,9 +7,9 @@ import pageObjects.HomePage;
 import pageObjects.InsideLoginPage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
-import uitlities.DatadrivenUtlits;
+import uitlities.DataProviders;
 public class TC003_LoginDDT extends BaseClass {
-	@Test(dataProvider="LoginData", dataProviderClass= DatadrivenUtlits.class)
+	@Test(dataProvider="LoginData", dataProviderClass= DataProviders.class)
 	
 	void loginDDT(String email , String pass, String exp) {
 		logger.info("*****************  The Page Started   ***********");

@@ -753,3 +753,11 @@
 13:56:08.423 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 144.0.7559.109 found in cache
 13:56:08.424 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ravis\.cache\selenium\chromedriver\win64\144.0.7559.109\chromedriver.exe
 13:56:09.917 [main] INFO  testCases.Tc002_LoginTest -  Driver Setup  Completed....
+16:24:50.108 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\DDT_Testing.xml"
+16:24:50.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\DDT_Testing.xml
+
+16:25:36.210 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\DDT_Testing.xml"
+16:25:36.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\DDT_Testing.xml
+
