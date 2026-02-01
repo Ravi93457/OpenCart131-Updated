@@ -5,7 +5,7 @@
     <listener class-name="uitlities.ExtendReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="window"/>
+    <parameter name="os" value="linux"/>
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>

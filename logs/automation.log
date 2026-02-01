@@ -761,3 +761,19 @@
 16:25:36.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ravis\eclipse-workspace\OpenCart131\DDT_Testing.xml
 
+20:46:35.816 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+20:46:36.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+20:47:46.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+20:47:46.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+20:48:51.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+20:48:51.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
+20:49:35.213 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml"
+20:49:35.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ravis\eclipse-workspace\OpenCart131\master.xml
+
