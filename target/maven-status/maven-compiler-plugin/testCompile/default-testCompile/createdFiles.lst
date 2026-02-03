@@ -1,13 +1,13 @@
 pageObjects\RegisterPage.class
-uitlities\ExcelUtils.class
 pageObjects\HomePage.class
 testBase\BaseClass.class
+uitlities\DataProviders.class
+uitlities\ExcelUtility.class
 testCases\Tc002_LoginTest.class
 pageObjects\LoginPage.class
 pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
 uitlities\ExtendReportManager.class
 testCases\TC001_AccountRegistration.class
-testCases\package-info.class
+testCases\TC004Search.class
 pageObjects\InsideLoginPage.class
-uitlities\DatadrivenUtlits.class

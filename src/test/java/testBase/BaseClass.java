@@ -13,13 +13,16 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
-import org.openqa.selenium.Platform;
+
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.firefox.FirefoxOptions;
+
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -44,41 +47,37 @@ public class BaseClass {
 	 FileReader file= new FileReader("./src//test//resources//config.properties");
 	 p= new Properties();
 		p.load(file);
-		String execEnv = p.getProperty("execution_eve");
-	    if (execEnv == null) {
-	        throw new RuntimeException("execution_eve not found in config.properties");
-	    }
+//		String execEnv = p.getProperty("execution_eve");
+//	    if (execEnv == null) {
+//	        throw new RuntimeException("execution_eve not found in config.properties");
+//	    }
 
 //	    try (FileReader file = new FileReader("./src/test/resources/config.properties")) {
 //	        p = new Properties();
 //	        p.load(file);
 //	    }
-		if(p.getProperty("execution_eve").equalsIgnoreCase("remote")) {
-			DesiredCapabilities capabilities= new DesiredCapabilities();
-			if(os.equalsIgnoreCase("windows")) {
-				capabilities.setPlatform(Platform.WINDOWS);
-			}else if(os.equalsIgnoreCase("mac")){
-				capabilities.setPlatform(Platform.MAC);
-				
-			}else if(os.equalsIgnoreCase("linux")){
-				capabilities.setPlatform(Platform.LINUX);
-				
-			}
-			else {
-				throw new RuntimeException("Invalid browser value: " + os);
-			}
+		if(p.getProperty("execution_env").equalsIgnoreCase("remote")) {
+//	
 			switch(br.toLowerCase()) {
-			case "chrome": capabilities.setBrowserName("chrome");break;
-			case "edge": capabilities.setBrowserName("MicrosoftEdge");break;
-			case "firefox": capabilities.setBrowserName("firefox"); break;
-//			default: System.out.println("NO MAtching Browser Found...");return;
-			 default:throw new RuntimeException("Invalid browser value: " + br);
-			
+			case "chrome":
+				ChromeOptions chromeOptions = new ChromeOptions();
+				chromeOptions.setPlatformName(os.toLowerCase());
+				driver= new RemoteWebDriver(new URL(p.getProperty("remoteUrl")), chromeOptions);break;
+			case "firefox":
+				FirefoxOptions firefoxOptions = new FirefoxOptions();
+				firefoxOptions.setPlatformName(os.toLowerCase());
+				driver = new RemoteWebDriver(new URL(p.getProperty("remoteUrl")), firefoxOptions);break;
+			case "edge" :
+				EdgeOptions edgeOptions= new EdgeOptions();
+				edgeOptions.setPlatformName(os.toLowerCase());
+				driver = new RemoteWebDriver(new URL(p.getProperty("remoteUrl")),edgeOptions);break;
+				default: throw new RuntimeException("Invalid browser value: " + br);
+				
 			}
-			driver= new RemoteWebDriver(new URL(p.getProperty("remoteUrl")), capabilities);
+			
 			
 		}
-	if(p.getProperty("execution_eve").equalsIgnoreCase("local")) {
+	if(p.getProperty("execution_env").equalsIgnoreCase("local")) {
 		 switch(br.toLowerCase()) {
 		 case "chrome": WebDriverManager.chromedriver().setup();
 			 driver= new ChromeDriver(); break; 

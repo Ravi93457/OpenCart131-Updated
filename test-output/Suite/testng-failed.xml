@@ -5,7 +5,7 @@
     <listener class-name="uitlities.ExtendReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="linux"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
@@ -13,13 +13,6 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC001_AccountRegistration">
-        <methods>
-          <include name="tearDown"/>
-          <include name="Registeration"/>
-          <include name="Setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistration -->
       <class name="testCases.Tc002_LoginTest">
         <methods>
           <include name="tearDown"/>
