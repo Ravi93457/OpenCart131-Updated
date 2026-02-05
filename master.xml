@@ -6,7 +6,7 @@
 </run>
 </groups>
 <listeners>
-<listener class-name="uitlities.ExtendReportManager"/>
+<listener class-name="uitlities.ExtendReportManager"></listener>
 </listeners>
   <test thread-count="5" name="Test">
   <parameter name="os" value="windows"/>

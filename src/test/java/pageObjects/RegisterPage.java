@@ -23,6 +23,8 @@ WebElement btn_Agree;
 WebElement btn_Countinue;
 @FindBy(xpath="//h1[normalize-space()=\"Your Account Has Been Created!\"]")
 WebElement verify_txt;
+@FindBy(xpath="//a[@class=\"list-group-item\"][normalize-space()=\"Logout\"]")
+WebElement logOut;
 
 
 public void setUserFirstName(String firstName) {
@@ -51,6 +53,12 @@ public String checkBanner() {
 	}catch(Exception e) {
 		return(e.getMessage());
 	}
+}
+public void logOut() {
+	js.executeScript("arguments[0].scrollIntoView(true);", logOut);
+	wait.until(ExpectedConditions.elementToBeClickable(logOut));
+	 js.executeScript("arguments[0].click();", logOut);
+	
 }
 
 }

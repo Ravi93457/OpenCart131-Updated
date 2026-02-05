@@ -13,13 +13,6 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC001_AccountRegistration">
-        <methods>
-          <include name="tearDown"/>
-          <include name="Registeration"/>
-          <include name="Setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistration -->
       <class name="testCases.Tc002_LoginTest">
         <methods>
           <include name="tearDown"/>

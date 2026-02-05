@@ -7,7 +7,6 @@
         <methods>
           <include name="tearDown"/>
           <include name="Registeration"/>
-          <include name="RegristerProcess"/>
           <include name="Setup"/>
         </methods>
       </class> <!-- testCases.TC001_AccountRegistration -->

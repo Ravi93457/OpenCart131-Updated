@@ -8,6 +8,8 @@ import java.time.Duration;
 import java.util.Properties;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -36,17 +38,34 @@ public class BaseClass {
 	 public static WebDriver driver;
 	 public Logger logger;
 	 public Properties p;
-	   
-	   
-	
+	 
+	 public static String registeredEmail;
+	  public  static  String registeredPassword;
  
 @BeforeClass(groups= {"Sanity", "Regression", "Master"})
  @Parameters({"os", "browser"})
-	public void Setup(String os, String br) throws IOException {
+	public void Setup(String os, String br) throws IOException, InterruptedException {
+	
+	 ChromeOptions op= new ChromeOptions();
+	 Map<String, Object> prefs = new HashMap<>();
+	    prefs.put("credentials_enable_service", false);
+	    prefs.put("profile.password_manager_enabled", false);
+	    prefs.put("profile.password_manager_leak_detection", false);
+	    op.setExperimentalOption("prefs", prefs);
+	
+//		
+//	    op.addArguments("--headless=new");
+	    op.addArguments("--window-size=1920,1080");
+	    op.addArguments("--disable-gpu");
+	    op.addArguments("--no-sandbox");
+	    op.addArguments("--disable-dev-shm-usage");
+	    op.addArguments("--disable-notifications");
+	    op.addArguments("--disable-infobars");
 	 logger= LogManager.getLogger(this.getClass());
 	 FileReader file= new FileReader("./src//test//resources//config.properties");
 	 p= new Properties();
 		p.load(file);
+		
 //		String execEnv = p.getProperty("execution_eve");
 //	    if (execEnv == null) {
 //	        throw new RuntimeException("execution_eve not found in config.properties");
@@ -80,7 +99,9 @@ public class BaseClass {
 	if(p.getProperty("execution_env").equalsIgnoreCase("local")) {
 		 switch(br.toLowerCase()) {
 		 case "chrome": WebDriverManager.chromedriver().setup();
-			 driver= new ChromeDriver(); break; 
+			 driver= new ChromeDriver(op); break; 
+			
+		
 		 case "firefox" : WebDriverManager.firefoxdriver().setup();
 			 driver= new FirefoxDriver(); break;
 		 case  "edge" : WebDriverManager.edgedriver().setup();
@@ -91,7 +112,9 @@ public class BaseClass {
 		 
 	}
 	
-		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	
+	
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));	 
 		 driver.get(p.getProperty("appUrl"));
 		 driver.manage().window().maximize();
 		 logger.info(" Driver Setup  Completed....");

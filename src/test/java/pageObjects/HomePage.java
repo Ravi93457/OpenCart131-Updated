@@ -33,13 +33,20 @@ public class HomePage extends BasePage{
 	
 	
 	public void clickMyaccount() {
-		wait.until(ExpectedConditions.elementToBeClickable(lnkMyAccount)).click();
+		js.executeScript("arguments[0].scrollIntoView(true);", lnkMyAccount);
+		wait.until(ExpectedConditions.elementToBeClickable(lnkMyAccount));
+		 js.executeScript("arguments[0].click();", lnkMyAccount);
 	}
 	public void clickMyRegister() {
-		wait.until(ExpectedConditions.elementToBeClickable(lnkRegister)).click();
+		js.executeScript("arguments[0].scrollIntoView(true);",  lnkRegister);
+		wait.until(ExpectedConditions.elementToBeClickable( lnkRegister));
+		 js.executeScript("arguments[0].click();",  lnkRegister);
 	}
 	public void clickLogin() {
-		lnkLogin.click();
+		js.executeScript("arguments[0].scrollIntoView(true);", lnkLogin);
+		wait.until(ExpectedConditions.elementToBeClickable( lnkLogin));
+		 js.executeScript("arguments[0].click();",  lnkLogin);
+		
 	}
 	
 

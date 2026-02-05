@@ -1,5 +1,6 @@
 pageObjects\RegisterPage.class
 pageObjects\HomePage.class
+pageObjects\CheckOutPage.class
 testBase\BaseClass.class
 uitlities\DataProviders.class
 uitlities\ExcelUtility.class
@@ -8,6 +9,7 @@ pageObjects\LoginPage.class
 pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
 uitlities\ExtendReportManager.class
+pageObjects\CartPage.class
 testCases\TC001_AccountRegistration.class
 testCases\TC004Search.class
 pageObjects\InsideLoginPage.class

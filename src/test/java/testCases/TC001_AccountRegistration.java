@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistration extends BaseClass {
 	
-	@Test( groups= {"Sanity" , "Master"})
+	@Test( groups= {"Sanity" , "Master"} )    //invocationCount=20
 	public void Registeration() {
 		try{
 		logger.info("Starting the HomePage .......");
@@ -31,13 +31,23 @@ public class TC001_AccountRegistration extends BaseClass {
 		RegisterPage rp= new RegisterPage(driver);
 		rp.setUserFirstName(randomString());
 		rp.setUserLastName(randomString());
-		rp.setEmail(randomEmail()+"@gmail.com");
-		rp.setPass(randomNumber());
+		String email = randomEmail()+"@gmail.com";
+	    BaseClass.registeredEmail= email;
+		rp.setEmail(email);
+		System.out.println(registeredEmail);
+		
+		
+		String pass= randomNumber();
+		BaseClass.registeredPassword = pass;
+		rp.setPass(pass);
+		System.out.println(registeredPassword);
 		rp.clickAgree();
 		System.out.println("The Agree Btn clicked......");
 		rp.clickCountinue();
 		logger.info("Validating the page at the end...");
 		Assert.assertEquals(rp.checkBanner(), "Your Account Has Been Created!");
+		rp.logOut();
+		
 	}catch(Exception e) {
 		logger.error("Regristration Failed.....");
 //		logger.debug("The Regristration Debug Failed...");
