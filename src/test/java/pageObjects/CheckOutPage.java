@@ -88,8 +88,9 @@ public class CheckOutPage extends BasePage {
 		wait.until(ExpectedConditions.visibilityOf(txt_City)).clear();
 		txt_City.sendKeys(name);
 	}
-	public void selectRegion(String name) {
-		new Select(SelectBtn_Region).selectByVisibleText(name);
+	public void selectRegion() {
+		wait.until(ExpectedConditions.elementToBeClickable(SelectBtn_Region));
+		new Select(SelectBtn_Region).selectByIndex(3);
 	}
 	public void clickContinue() {
 		js.executeScript("arguments[0].scrollIntoView({block:'center'});",btn_Continue);

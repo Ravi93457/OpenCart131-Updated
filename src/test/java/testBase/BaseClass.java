@@ -54,7 +54,7 @@ public class BaseClass {
 	    op.setExperimentalOption("prefs", prefs);
 	
 //		
-//	    op.addArguments("--headless=new");
+	    op.addArguments("--headless=new");
 	    op.addArguments("--window-size=1920,1080");
 	    op.addArguments("--disable-gpu");
 	    op.addArguments("--no-sandbox");
@@ -116,7 +116,7 @@ public class BaseClass {
 	
 		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));	 
 		 driver.get(p.getProperty("appUrl"));
-		 driver.manage().window().maximize();
+//		 driver.manage().window().maximize();
 		 logger.info(" Driver Setup  Completed....");
 		 
 	}

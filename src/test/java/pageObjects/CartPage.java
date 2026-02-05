@@ -55,13 +55,15 @@ public class CartPage extends BasePage {
 	public void selectContry() {
 		js.executeScript("arguments[0].scrollIntoView({block:'center'});", contrySelect_Btn);
 		Select select= new Select(contrySelect_Btn);
-		select.selectByVisibleText("Angola");
+		select.selectByIndex(3);
 		
 	}
 	public void selectRegion() {
 		js.executeScript("arguments[0].scrollIntoView({block:'center'});", regionSelect_Btn);
 		Select select= new Select(regionSelect_Btn);
-		select.selectByIndex(3);;
+		wait.until(ExpectedConditions.elementToBeClickable(regionSelect_Btn));
+		select.selectByIndex(3);
+
 	}
 	public void pincode(String text) {
 		 wait.until(ExpectedConditions.visibilityOf(txt_Pincode)).clear();

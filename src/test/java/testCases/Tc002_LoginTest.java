@@ -72,7 +72,7 @@ public class Tc002_LoginTest extends BaseClass{
 		checkOut.enterAddress1(randomString());
 		checkOut.enterAddress2(randomString());
 		checkOut.enterCity(randomString());
-		checkOut.selectRegion("Bie");
+		checkOut.selectRegion();
 		checkOut.clickContinue();
 		boolean checkmsg= checkOut.CheckMsg();
 		Assert.assertTrue(checkmsg);
